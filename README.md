@@ -6,6 +6,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 
 - [Community](#community)
 - [API and language support](#api-and-language-support)
+- [Workshops](#workshops)
 
 ## Community
 
