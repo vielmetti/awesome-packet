@@ -6,6 +6,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 
 - [Community](#community)
 - [API and language support](#api-and-language-support)
+- [Workshops](#workshops)
 
 ## Community
 
@@ -22,6 +23,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 - [Packet PHP library](https://github.com/packethost/packet-php)
 - [Packet Python API library](https://github.com/packethost/packet-python)
 - [Packet Ruby API client](https://github.com/packethost/packet-rb)
+
+## Workshops
+
+- [Rook on Bare Metal Workshop](https://github.com/packet-labs/Rook-on-Bare-Metal-Workshop) - Rook (Ceph support for Kubernetes) on Packet bare metal, as presented at Cephalocon 2019.
+- [BGP Anycast Workshop](https://github.com/packet-labs/BGP-Anycast-Workshop) - The basics of BGP high availability, Terraform automation, and IPv6.
 
 ## License
 
