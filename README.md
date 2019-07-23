@@ -16,7 +16,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 ## API and language support
 
 - [Packet API docs](https://www.packet.com/developers/api/)
-- [Packet Go API client](https://github.com/packethost/packngo) - "packngo"
+- [Packet Go API client](https://github.com/packethost/packngo) - packngo
 - [Packet Java API clinet](https://github.com/packethost/packet-java)
 - [Packet Node.js library](https://github.com/packethost/packet-nodejs)
 - [Packet PHP library](https://github.com/packethost/packet-php)
