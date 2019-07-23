@@ -23,6 +23,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 - [Packet Python API library](https://github.com/packethost/packet-python)
 - [Packet Ruby API client](https://github.com/packethost/packet-rb)
 
+## Workshops
+
+- [Rook on Bare Metal Workshop](https://github.com/packet-labs/Rook-on-Bare-Metal-Workshop) - Rook (Ceph support for Kubernetes) on Packet bare metal, as presented at Cephalocon 2019.
+- [BGP Anycast Workshop](https://github.com/packet-labs/BGP-Anycast-Workshop) - The basics of BGP high availability, Terraform automation, and IPv6.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
