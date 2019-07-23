@@ -12,6 +12,16 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 - [Packet Developer Guides](https://www.packet.com/developers/guides)
 - [Packet Knowledgebase](https://support.packet.com/kb)
 
+## API and language support
+
+- [Packet API docs](https://www.packet.com/developers/api/)
+- [Packet Go API client](https://github.com/packethost/packngo), "packngo"
+- [Packet Java API clinet](https://github.com/packethost/packet-java)
+- [Packet Node.JS library](https://github.com/packethost/packet-nodejs)
+- [Packet PHP library](https://github.com/packethost/packet-php)
+- [Packet Python API library](https://github.com/packethost/packet-python)
+- [Packet Ruby API client](https://github.com/packethost/packet-rb)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
