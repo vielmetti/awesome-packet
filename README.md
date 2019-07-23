@@ -5,7 +5,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 ## Contents
 
 - [Community](#community)
-- [API and language support)(#api-and-language-support)
+- [API and language support](#api-and-language-support)
 
 ## Community
 
