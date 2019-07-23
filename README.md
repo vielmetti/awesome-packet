@@ -5,12 +5,23 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 ## Contents
 
 - [Community](#community)
+- [API and language support](#api-and-language-support)
 
 ## Community
 
 - [Packet Community Slack](https://slack.packet.com)
 - [Packet Developer Guides](https://www.packet.com/developers/guides)
 - [Packet Knowledgebase](https://support.packet.com/kb)
+
+## API and language support
+
+- [Packet API docs](https://www.packet.com/developers/api/)
+- [Packet Go API client](https://github.com/packethost/packngo) - Also known as `packngo`.
+- [Packet Java API client](https://github.com/packethost/packet-java)
+- [Packet Node.js library](https://github.com/packethost/packet-nodejs)
+- [Packet PHP library](https://github.com/packethost/packet-php)
+- [Packet Python API library](https://github.com/packethost/packet-python)
+- [Packet Ruby API client](https://github.com/packethost/packet-rb)
 
 ## License
 
