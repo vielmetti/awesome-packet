@@ -11,6 +11,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 ## Community
 
 - [Packet Community Slack](https://slack.packet.com)
+- [Packet IRC](https://irc-source.com/channel/freenode/#packethost)
 - [Packet Developer Guides](https://www.packet.com/developers/guides)
 - [Packet Knowledgebase](https://support.packet.com/kb)
 
