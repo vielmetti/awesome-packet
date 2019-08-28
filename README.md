@@ -24,6 +24,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 - [Packet PHP library](https://github.com/packethost/packet-php)
 - [Packet Python API library](https://github.com/packethost/packet-python)
 - [Packet Ruby API client](https://github.com/packethost/packet-rb)
+- [Packet CLI](https://github.com/packethost/packet-cli)
 
 ## Workshops
 
