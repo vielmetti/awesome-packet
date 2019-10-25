@@ -14,6 +14,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) about awesome things 
 - [Packet IRC](https://irc-source.com/channel/freenode/%23packethost)
 - [Packet Developer Guides](https://www.packet.com/developers/guides)
 - [Packet Knowledgebase](https://support.packet.com/kb)
+- [Packet Docs](https://github.com/packethost/docs)
 
 ## API and language support
 
